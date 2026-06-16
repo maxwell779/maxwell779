@@ -55,7 +55,7 @@
 | 🐶 [**Paw-옹 유기견 매칭**](https://github.com/paw-ong1/paw-ong) | 가중치 추천 알고리즘 (팀장) | Streamlit, pytest | 팀장 + 매칭 엔진 |
 | 🔥 [**산불·연기 / 알약 / 폐기 ML 외**](https://github.com/maxwell779/kdt-portfolio) | YOLO·이상탐지·ML 등 KDT 프로젝트 모음 | PyTorch, scikit-learn | kdt-portfolio repo |
 
-📄 **[전체 포트폴리오 보기 (Notion)](Notion-링크)**  ·  ✍️ **[기술 블로그](https://maxwell779.github.io)**
+📄 **[전체 포트폴리오 보기 (Notion)](https://standing-whimsey-227.notion.site/_-10837ef64c53825b951681a9b18d1e72)**  ·  ✍️ **[기술 블로그](https://maxwell779.github.io)**
 
 ---
 
