@@ -51,6 +51,8 @@
 | 📚 [**그 외 KDT 프로젝트 모음**](https://github.com/maxwell779/kdt-portfolio) | NBA·올림픽·기후·빈집·채용·모기 등 | pandas, SQL, 시각화 | 데이터 분석·SQL |
 
 > 🖥 = **Streamlit 앱 포함** (실제 모델 구동) · 팀 프로젝트는 본인 역할을 정직하게 표기했습니다.
+>
+> **▶️ 라이브 데모:** [🔥 산불 탐지](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
 
 📄 **[전체 포트폴리오 (Notion)](https://standing-whimsey-227.notion.site/_-10837ef64c53825b951681a9b18d1e72)**  ·  ✍️ **[기술 블로그/웹](https://maxwell779.github.io)**
 
