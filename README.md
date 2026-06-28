@@ -41,7 +41,7 @@
 | 프로젝트 | 한 줄 소개 | 핵심 기술 | 내 역할 |
 |---|---|---|---|
 | 🏭 [**엠엔비전 버스바 결함 탐지**](https://github.com/KDT12-mnvision/KDT12-mnvison/tree/feature/stage2-sweep-portfolio) | EV 배터리 비지도 이상탐지 · **외관 AUROC 0.994** (기업 프로젝트) | DINOv2, ReConPatch, PyTorch | Stage2(외관 비지도탐지) 전담 |
-| 📑 [**AJIN BizAI 신청서 자동화**](https://github.com/KDT12-AJIN-PROJECT/Ajin-BizAI) | RAG 풀스택 AI SaaS (경진대회 본선) | FastAPI, RAG, LLM | Step1~5·공고검색·통합 |
+| 📑 [**AJIN BizAI 신청서 자동화**](https://github.com/KDT12-AJIN-PROJECT/Ajin-BizAI) | RAG 풀스택 AI 웹앱 (경진대회 본선) | FastAPI, RAG, LLM | Step1~5·공고검색·통합 |
 | 🔥 [**산불·연기 실시간 탐지**](https://github.com/maxwell779/wildfire-detection) 🖥 | YOLOv8 실탐지 + **산림청용 관제 앱** · mAP50 0.78 | YOLOv8, ResNet, SAHI | 딥러닝 모델링·Hybrid 담당 |
 | 🤖 [**NEW LEARN 교육 챗봇**](https://github.com/new-learn12/new-learn) | EXAONE-2.4B LoRA 파인튜닝 반도체 AI 튜터 | transformers, peft, trl | 반도체 파인튜닝(단독) |
 | 🗳 [**PolyElection 선거 대시보드**](https://github.com/maxwell779/korean_election_project) | 선관위+예측시장+뉴스 결합 풀스택 | FastAPI, MySQL, Gemini, Docker | 백엔드 전체 |
@@ -53,6 +53,22 @@
 > 🖥 = **Streamlit 앱 포함** (실제 모델 구동) · 팀 프로젝트는 본인 역할을 정직하게 표기했습니다.
 >
 > **▶️ 라이브 데모:** [🔥 산불 탐지](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
+
+---
+
+### 🧪 개인 프로젝트 (비전/제조 · 라이브 배포 🌐)
+
+KDT 이후 직접 기획·구현한 비전/제조 AI 프로젝트. 셋 다 **GitHub Pages 라이브 콘솔**을 포함합니다.
+
+| 프로젝트 | 한 줄 소개 | 핵심 기술 |
+|---|---|---|
+| 🔬 [**웨이퍼 결함 검사 Suite**](https://github.com/maxwell779/wafer-defect-suite) 🌐 | 반도체 웨이퍼 팹 검사 3단계(공정·웨이퍼맵·결함검출). 합성→실데이터 전환으로 **0.36→0.935** 개선을 정량·인과로 규명 | SE-ResNet 앙상블, PyTorch, YOLO |
+| 🏭 [**철강 결함 세그멘테이션 Suite**](https://github.com/maxwell779/steel-defect-suite) 🌐 | Severstal 강판 표면결함 **픽셀 세그멘테이션** · mean Dice **0.9573** (OOF 0.9532) | U-Net/smp, timm, React |
+| ⚙️ [**터보팬 RUL 예측 Suite**](https://github.com/maxwell779/turbofan-rul-suite) 🌐 | NASA C-MAPSS 센서 시계열 **잔여수명 예측(예지보전)** · FD001 RMSE **11.87** | PatchTST/TCN, PyTorch |
+
+> 🌐 **라이브 콘솔:** [🔬 웨이퍼](https://maxwell779.github.io/wafer-defect-suite/) · [🏭 철강](https://maxwell779.github.io/steel-defect-suite/) · [⚙️ 터보팬](https://maxwell779.github.io/turbofan-rul-suite/)
+
+---
 
 📄 **[전체 포트폴리오 (Notion)](https://standing-whimsey-227.notion.site/_-10837ef64c53825b951681a9b18d1e72)**  ·  ✍️ **[기술 블로그/웹](https://maxwell779.github.io)**
 
