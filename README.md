@@ -42,7 +42,7 @@
 |---|---|---|---|
 | 🏭 [**엠엔비전 버스바 결함 탐지**](https://github.com/KDT12-mnvision/KDT12-mnvison/tree/feature/stage2-sweep-portfolio) | EV 배터리 비지도 이상탐지 · **외관 AUROC 0.994** (기업 프로젝트) | DINOv2, ReConPatch, PyTorch | Stage2(외관 비지도탐지) 전담 |
 | 📑 [**AJIN BizAI 신청서 자동화**](https://github.com/KDT12-AJIN-PROJECT/Ajin-BizAI) | RAG 풀스택 AI 웹앱 (경진대회 본선) | FastAPI, RAG, LLM | Step1~5·공고검색·통합 |
-| 🔥 [**산불·연기 실시간 탐지**](https://github.com/maxwell779/wildfire-detection) 🖥 | YOLOv8 실탐지 + **산림청용 관제 앱** · mAP50 0.78 | YOLOv8, ResNet, SAHI | 딥러닝 모델링·Hybrid 담당 |
+| 🔥 [**산불·연기 실시간 탐지**](https://github.com/maxwell779/wildfire-detection) 🖥 🤗 | YOLOv8 실탐지 + **산림청용 관제 앱** · mAP50 0.78 | YOLOv8, ResNet, SAHI | 딥러닝 모델링·Hybrid 담당 |
 | 🤖 [**NEW LEARN 교육 챗봇**](https://github.com/new-learn12/new-learn) | EXAONE-2.4B LoRA 파인튜닝 반도체 AI 튜터 | transformers, peft, trl | 반도체 파인튜닝(단독) |
 | 🗳 [**PolyElection 선거 대시보드**](https://github.com/maxwell779/korean_election_project) | 선관위+예측시장+뉴스 결합 풀스택 | FastAPI, MySQL, Gemini, Docker | 백엔드 전체 |
 | 💊 [**알약 이미지 이상탐지**](https://github.com/maxwell779/pill-anomaly-detection) 🖥 | KNN 비지도 이상탐지 + **산업 검사 앱** · F2 0.85 | KNN, PCA, OpenCV | KNN 모델 담당·BEST 선정 |
@@ -50,9 +50,9 @@
 | 🐶 [**Paw-옹 유기견 매칭**](https://github.com/paw-ong1/paw-ong) | 가중치 추천 알고리즘 (팀장) | Streamlit, pytest | 팀장 + 매칭 엔진 |
 | 📚 [**그 외 KDT 프로젝트 모음**](https://github.com/maxwell779/kdt-portfolio) | NBA·올림픽·기후·빈집·채용·모기 등 | pandas, SQL, 시각화 | 데이터 분석·SQL |
 
-> 🖥 = **Streamlit 앱 포함** (실제 모델 구동) · 팀 프로젝트는 본인 역할을 정직하게 표기했습니다.
+> 🖥 = **Streamlit 앱 포함** (실제 모델 구동) · 🤗 = **Hugging Face Spaces 실시간 데모** · 팀 프로젝트는 본인 역할을 정직하게 표기했습니다.
 >
-> **▶️ 라이브 데모:** [🔥 산불 탐지](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
+> **▶️ 라이브 데모:** [🤗 산불 실시간(HF)](https://huggingface.co/spaces/maxwell779/wildfire-detection) · [🔥 산불 관제(Streamlit)](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
 
 ---
 
