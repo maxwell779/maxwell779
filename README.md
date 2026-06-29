@@ -52,7 +52,7 @@
 
 > 🖥 = **Streamlit 앱 포함** (실제 모델 구동) · 🤗 = **Hugging Face Spaces 실시간 데모** · 팀 프로젝트는 본인 역할을 정직하게 표기했습니다.
 >
-> **▶️ 라이브 데모:** [🤗 산불 실시간(HF)](https://huggingface.co/spaces/maxwell779/wildfire-detection) · [🔥 산불 관제(Streamlit)](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
+> **▶️ 라이브 데모:** [🤗 산불 실시간(HF)](https://maxwell779-wildfire-detection.hf.space) · [🔥 산불 관제(Streamlit)](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
 
 ---
 
