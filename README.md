@@ -52,7 +52,7 @@
 
 > 🖥 = **Streamlit 앱 포함** (실제 모델 구동) · 🤗 = **Hugging Face Spaces 실시간 데모** · 팀 프로젝트는 본인 역할을 정직하게 표기했습니다.
 >
-> **▶️ 라이브 데모:** [📈 AI 투자 리서치 에이전트(HF)](https://maxwell779-investment-research-agent.hf.space) · [🤗 산불 실시간(HF)](https://maxwell779-wildfire-detection.hf.space) · [🔥 산불 관제(Streamlit)](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
+> **▶️ 라이브 데모:** [🧭 AI 취업 코치(HF)](https://maxwell779-ai-job-coach.hf.space) · [📈 AI 투자 리서치 에이전트(HF)](https://maxwell779-investment-research-agent.hf.space) · [🤗 산불 실시간(HF)](https://maxwell779-wildfire-detection.hf.space) · [🔥 산불 관제(Streamlit)](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
 
 ---
 
@@ -63,7 +63,7 @@ KDT 이후 직접 기획·구현해 **라이브로 배포**한 프로젝트들 �
 #### 🧭 [AI 취업 코치](https://github.com/maxwell779/ai-job-coach) — 풀스택 AI·멀티모달
 기업분석 → 자소서 → 면접 → 현황관리를 한 흐름으로 묶은 **취업 올인원**. **DART 공시·사업보고서·재무**로 기업/사업부(삼성 DS/DX 등)를 분석하고, 자소서를 **RAG**로 첨삭하며, **음성(9지표: jitter·shimmer·HNR 등)·표정(MediaPipe 7지표·실시간 시선)** 모의면접을 **무료·온디바이스**(영상 서버 미전송)로 제공. 면접관 5페르소나·3축 평가·압박 라운드·성장 리포트. 직무 **350+** × 기업/공기업 인재상 DB.
 - **기술**: React(Vite) · FastAPI · LLM function-calling · **RAG** · **MediaPipe** · **Web Audio/Whisper** · DART·네이버·고용24 API · Docker
-- 💻 **GitHub**: https://github.com/maxwell779/ai-job-coach (HF Spaces 배포)
+- 🤗 **라이브**: https://maxwell779-ai-job-coach.hf.space
 
 #### 📈 [AI 투자 리서치 에이전트](https://github.com/maxwell779/investment-research-agent) — 풀스택 AI·RAG
 한국·해외 주식의 시세·재무·**DART 공시·사업보고서(부문별 매출)·증권사 리포트**를 **RAG(벡터검색)**로 통합하고, LLM 에이전트가 **모든 수치에 출처를 인용**해 답합니다. **데이터가 없으면 지어내지 않고 거절**(정직성 평가 출처·수치·거절 **100%**). 14개국 시총 랭킹·투자매력 점수·다크모드.
