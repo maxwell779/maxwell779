@@ -52,13 +52,22 @@
 
 > 🖥 = **Streamlit 앱 포함** (실제 모델 구동) · 🤗 = **Hugging Face Spaces 실시간 데모** · 팀 프로젝트는 본인 역할을 정직하게 표기했습니다.
 >
-> **▶️ 라이브 데모:** [🤗 산불 실시간(HF)](https://maxwell779-wildfire-detection.hf.space) · [🔥 산불 관제(Streamlit)](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
+> **▶️ 라이브 데모:** [📈 AI 투자 리서치 에이전트(HF)](https://maxwell779-investment-research-agent.hf.space) · [🤗 산불 실시간(HF)](https://maxwell779-wildfire-detection.hf.space) · [🔥 산불 관제(Streamlit)](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) · [💊 알약 검사](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) · [📦 폐기 예측](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/)
 
 ---
 
-### 🧪 개인 프로젝트 (비전/제조 · 라이브 배포 🌐)
+### 🧪 개인 프로젝트 (직접 기획·배포 🌐)
 
-KDT 이후 직접 기획·구현한 비전/제조 AI 프로젝트. 셋 다 **GitHub Pages 라이브 콘솔**을 포함합니다.
+KDT 이후 직접 기획·구현해 **라이브로 배포**한 프로젝트들 — 비전/제조 3종 + 풀스택 AI 1종.
+
+#### 📈 [AI 투자 리서치 에이전트](https://github.com/maxwell779/investment-research-agent) — 풀스택 AI 대표작
+한국·해외 주식의 시세·재무·**DART 공시·사업보고서(부문별 매출)·증권사 리포트**를 **RAG(벡터검색)**로 통합하고, LLM 에이전트가 **모든 수치에 출처를 인용**해 답합니다. **데이터가 없으면 지어내지 않고 거절**(정직성 평가 출처·수치·거절 **100%**). 14개국 시총 랭킹·투자매력 점수·다크모드.
+- **기술**: React(Vite) · FastAPI · LLM function-calling(멀티프로바이더) · **RAG(SQLite 벡터검색+임베딩)** · DART·네이버 API · Docker
+- 🤗 **라이브**: https://maxwell779-investment-research-agent.hf.space
+
+---
+
+#### 🏭 비전/제조 AI Suite (3종) — **GitHub Pages 라이브 콘솔** 포함
 
 | 프로젝트 | 한 줄 소개 | 핵심 기술 |
 |---|---|---|
